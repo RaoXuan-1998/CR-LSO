@@ -23,4 +23,4 @@ Image Classifier Search](https://arxiv.org/pdf/2201.12725.pdf) from [here](https
 2. The remaining steps are the same as those in NAS-Bench-101 experiments.
 
 ### Run CR-LSO in NAS-Bench-301 benchmark
-1. Coming soon... (will be release after the paper is accpeted)
+1. Coming soon... (will be released after the paper is accpeted)
